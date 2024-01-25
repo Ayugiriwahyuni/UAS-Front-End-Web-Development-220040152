@@ -1,0 +1,24 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #d5f0d5;
+}
+
+#Portofolio {
+  background-color: #d5f0d5;
+}
+
+#kontak {
+  margin-bottom: 40px;
+}
+
+.custom-img-size {
+  width: 100%;
+  height: auto;
+}
+
+section {
+  padding-top: 4rem;
+}
